@@ -108,12 +108,12 @@ motto: "Stay curious, stay creative, stay kind! 💜"
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nourmaaita003&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=C89FED&icon_color=FFB7C5&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nourmaaita003&theme=material-palenight&hide_border=true&background=1a1b27&stroke=C89FED&ring=FFB7C5&fire=FFB7C5&currStreakLabel=C89FED&sideNums=FFFFFF&currStreakNum=FFB7C5&dates=FFFFFF&sideLabels=FFFFFF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nmaaitall&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=C89FED&icon_color=FFB7C5&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nmaaitall&theme=material-palenight&hide_border=true&background=1a1b27&stroke=C89FED&ring=FFB7C5&fire=FFB7C5&currStreakLabel=C89FED&sideNums=FFFFFF&currStreakNum=FFB7C5&dates=FFFFFF&sideLabels=FFFFFF" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourmaaita003&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=C89FED&text_color=FFFFFF&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmaaitall&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=C89FED&text_color=FFFFFF&langs_count=8" />
 </p>
 
 <br>
@@ -122,7 +122,7 @@ motto: "Stay curious, stay creative, stay kind! 💜"
 
 ## 🏆 GitHub Achievements 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=nourmaaita003&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+<img src="https://github-profile-trophy.vercel.app/?username=nmaaitall&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
 
 </div>
 
@@ -168,7 +168,7 @@ const nour = {
 
 ## 📈 Activity Graph 📈
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nourmaaita003&custom_title=Nour's%20Contribution%20Graph&bg_color=1a1b27&color=C89FED&line=FFB7C5&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nmaaitall&custom_title=Nour's%20Contribution%20Graph&bg_color=1a1b27&color=C89FED&line=FFB7C5&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -200,7 +200,7 @@ I love collaborating on projects and meeting new people! Feel free to reach out!
 
 ### 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=nourmaaita003&color=C89FED&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=nmaaitall&color=C89FED&style=for-the-badge&label=VISITORS" alt="Profile Views" />
 
 </div>
 
